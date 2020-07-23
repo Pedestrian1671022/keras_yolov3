@@ -1,0 +1,233 @@
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0505.jpg 970,12,1007,57,0 984,119,1004,181,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_123.jpg 1253,487,1271,500,0 1278,501,1293,513,0 1302,514,1323,529,0 1331,524,1352,544,0 1374,553,1399,571,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1278.jpg 565,246,602,267,0 637,246,673,264,0 703,247,751,260,0 783,231,818,262,0 884,240,930,261,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1281.jpg 552,463,587,481,0 625,463,659,481,0 688,462,737,478,0 770,450,806,475,0 870,455,917,473,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_044.jpg 700,357,715,368,0 718,367,731,376,0 736,378,752,388,0 755,383,773,400,0 786,405,805,418,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1292.jpg 499,505,540,527,0 582,506,623,522,0 656,505,707,519,0 746,487,788,518,0 862,498,915,516,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0531.jpg 950,183,976,235,0 959,289,981,341,0 966,385,985,451,0 959,506,999,559,0 974,658,995,738,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0273.jpg 1136,1024,1152,1071,0 1128,947,1162,985,0 1131,822,1149,877,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0277.jpg 1092,952,1109,1009,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1279.jpg 558,467,596,484,0 633,468,668,481,0 696,464,742,478,0 777,451,813,479,0 875,457,922,477,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1254.jpg 783,311,818,328,0 848,312,885,327,0 912,314,956,326,0 983,300,1017,326,0 1076,313,1123,330,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0528.jpg 970,189,995,244,0 978,297,1001,348,0 984,393,1005,460,0 976,514,1016,566,0 992,663,1015,745,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_027.jpg 919,437,935,451,0 903,452,920,466,0 891,470,906,484,0 870,478,893,503,0 842,516,866,534,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1213.jpg 589,126,618,159,0 626,184,651,215,0 660,237,689,274,0 696,299,726,333,0 752,384,784,431,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_045.jpg 700,354,715,365,0 720,364,733,374,0 738,375,757,385,0 759,379,777,396,0 791,400,811,413,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0655.jpg 972,635,1002,652,0 1033,622,1058,636,0 1084,610,1116,623,0 1143,595,1173,610,0 1224,578,1266,592,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_046.jpg 595,355,611,366,0 616,365,628,374,0 636,375,655,384,0 659,378,677,395,0 694,399,714,411,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1263.jpg 599,384,635,400,0 668,386,702,399,0 729,386,771,398,0 800,375,834,398,0 895,384,939,399,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1262.jpg 605,388,640,405,0 672,390,707,401,0 734,387,776,402,0 804,377,840,402,0 900,386,944,401,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1287.jpg 527,563,564,583,0 604,562,641,578,0 672,561,723,575,0 758,547,795,572,0 864,553,913,573,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_042.jpg 586,370,601,381,0 603,381,616,391,0 619,392,632,401,0 635,397,655,416,0 664,420,684,434,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0802.jpg 1326,629,1353,642,0 1281,641,1303,654,0 1233,650,1261,661,0 1188,660,1210,672,0 1116,673,1147,686,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_031.jpg 909,419,921,433,0 905,436,917,446,0 904,449,916,462,0 890,458,913,483,0 886,494,902,512,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1238.jpg 971,243,1005,272,0 1031,284,1063,312,0 1084,324,1123,352,0 1149,362,1183,394,0 1234,423,1275,461,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_021.jpg 916,444,936,461,0 885,457,908,474,0 859,477,880,490,0 824,483,849,510,0 766,520,801,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0548.jpg 967,240,991,288,0 976,338,996,384,0 982,426,1001,484,0 974,533,1014,581,0 991,672,1012,744,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1275.jpg 586,323,623,342,0 659,325,694,338,0 723,324,768,336,0 804,310,838,337,0 903,319,951,340,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_037.jpg 606,427,628,447,0 627,453,645,471,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0526.jpg 963,192,985,244,0 970,298,994,349,0 976,392,996,456,0 969,515,1010,565,0 986,665,1006,744,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1274.jpg 586,332,626,349,0 661,330,694,344,0 725,330,770,344,0 805,317,841,344,0 904,325,951,345,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1285.jpg 533,587,571,607,0 610,587,646,601,0 678,584,726,600,0 762,572,798,597,0 865,576,914,595,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_131.jpg 1303,601,1324,616,0 1336,621,1356,637,0 1367,641,1393,661,0 1402,660,1430,686,0 1458,702,1489,726,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_130.jpg 1291,574,1313,590,0 1323,594,1341,608,0 1353,612,1377,630,0 1388,628,1412,654,0 1439,668,1469,691,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1272.jpg 593,354,628,371,0 665,356,698,368,0 729,353,774,367,0 805,342,840,368,0 905,350,948,369,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0262.jpg 1084,671,1104,708,0 1079,599,1095,632,0 1074,528,1089,572,0 1065,467,1092,498,0 1065,366,1078,410,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0515.jpg 549,579,574,628,0 545,681,564,730,0 540,776,558,842,0 512,898,555,953,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1264.jpg 597,421,633,436,0 665,420,697,434,0 724,422,768,433,0 798,408,830,433,0 891,418,935,433,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0542.jpg 972,185,999,238,0 981,292,1006,344,0 988,390,1008,456,0 980,510,1023,562,0 999,665,1022,744,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0546.jpg 971,184,996,238,0 980,291,1004,341,0 985,389,1006,453,0 978,509,1020,562,0 999,662,1018,743,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1236.jpg 967,302,995,337,0 998,368,1020,399,0 1027,427,1051,466,0 1055,495,1081,529,0 1102,587,1130,636,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_026.jpg 971,439,988,454,0 954,453,969,467,0 939,473,953,484,0 914,481,938,505,0 881,516,908,535,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1276.jpg 580,329,616,348,0 651,330,686,345,0 718,330,763,343,0 797,315,832,344,0 895,325,945,342,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1284.jpg 537,469,576,487,0 614,469,651,484,0 682,466,728,481,0 762,454,798,478,0 866,462,913,479,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1228.jpg 551,503,579,537,0 588,568,613,602,0 622,625,651,666,0 655,696,688,733,0 711,790,743,843,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_038.jpg 650,418,674,438,0 674,444,690,461,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0799.jpg 1238,602,1264,614,0 1193,613,1216,625,0 1146,623,1176,632,0 1101,631,1124,644,0 1029,646,1060,657,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_043.jpg 644,363,660,375,0 662,374,673,384,0 677,385,695,396,0 697,390,715,408,0 727,413,745,426,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0510.jpg 807,197,833,239,0 811,278,827,324,0 813,357,831,414,0 800,456,839,506,0 813,587,833,660,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_124.jpg 1254,490,1272,503,0 1280,505,1294,516,0 1304,518,1327,532,0 1335,529,1355,548,0 1376,558,1402,574,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0522.jpg 958,387,982,438,0 966,490,989,538,0 971,583,992,647,0 965,702,1006,758,0 983,862,1003,946,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_002.jpg 603,453,632,472,0 562,465,588,486,0 512,486,544,501,0 463,492,493,520,0 373,528,420,547,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_034.jpg 788,442,809,463,0 797,474,810,490,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1255.jpg 681,276,715,292,0 749,278,781,292,0 810,281,851,293,0 883,269,917,295,0 979,279,1021,297,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1222.jpg 559,530,588,565,0 595,593,623,628,0 631,652,661,693,0 665,723,699,762,0 723,818,756,870,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0798.jpg 1206,511,1230,525,0 1160,522,1182,536,0 1113,533,1141,542,0 1069,541,1091,554,0 997,555,1028,567,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0519.jpg 899,519,923,568,0 906,616,927,665,0 910,708,928,774,0 898,828,939,885,0 913,990,934,1074,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0656.jpg 940,673,968,690,0 999,661,1025,674,0 1050,647,1085,660,0 1113,634,1142,648,0 1194,617,1236,631,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_028.jpg 871,432,886,448,0 859,449,873,462,0 848,467,863,481,0 828,476,852,500,0 808,512,831,532,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1226.jpg 556,497,582,532,0 592,562,618,596,0 626,620,655,661,0 660,692,692,727,0 716,785,749,839,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_005.jpg 622,447,649,466,0 580,461,606,479,0 532,481,564,494,0 483,486,511,513,0 396,522,438,541,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_030.jpg 853,423,866,437,0 847,440,859,452,0 845,455,855,470,0 826,466,851,490,0 818,503,835,519,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0539.jpg 969,181,995,233,0 978,289,1002,340,0 984,386,1004,451,0 976,507,1016,559,0 994,661,1016,739,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0536.jpg 968,180,995,232,0 979,285,1004,338,0 984,383,1006,449,0 975,503,1019,558,0 993,656,1018,737,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_025.jpg 984,440,1003,455,0 967,455,984,470,0 948,474,964,486,0 921,481,946,507,0 883,518,910,535,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1239.jpg 975,168,1014,192,0 1045,192,1079,215,0 1104,212,1149,237,0 1180,230,1216,261,0 1276,274,1324,304,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_036.jpg 571,437,593,458,0 591,467,605,483,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1234.jpg 774,272,801,307,0 803,336,826,369,0 832,395,855,436,0 852,463,882,498,0 897,557,926,605,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1225.jpg 556,493,582,529,0 592,557,618,592,0 628,617,657,657,0 659,686,697,725,0 719,781,750,832,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_055.jpg 515,356,532,368,0 539,365,554,375,0 563,372,583,383,0 591,374,609,391,0 630,392,653,403,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_049.jpg 425,350,442,362,0 450,361,464,368,0 474,367,494,377,0 500,369,521,386,0 540,387,564,399,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_126.jpg 1261,505,1280,517,0 1288,521,1304,533,0 1313,534,1336,549,0 1344,546,1365,567,0 1387,577,1415,596,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0525.jpg 948,196,971,250,0 955,303,976,353,0 960,397,979,463,0 950,518,992,569,0 970,670,992,746,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1291.jpg 503,485,545,506,0 586,488,627,501,0 659,486,710,499,0 749,470,788,498,0 861,477,914,497,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_047.jpg 485,356,501,368,0 506,367,523,375,0 528,375,548,384,0 553,377,573,393,0 589,396,612,408,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0506.jpg 952,10,970,59,0 944,90,980,136,0 960,203,978,263,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0455.jpg 501,202,525,234,0 492,254,510,284,0 482,304,498,343,0 452,365,490,405,0 435,454,466,510,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0524.jpg 943,206,971,258,0 952,313,975,364,0 958,409,978,474,0 950,528,990,582,0 967,681,988,757,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0512.jpg 710,412,734,459,0 713,506,732,553,0 709,592,728,652,0 690,704,733,758,0 698,854,719,935,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1215.jpg 591,111,621,144,0 629,169,655,201,0 662,221,692,260,0 698,283,729,320,0 753,369,789,416,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0462.jpg 1039,326,1062,360,0 1046,386,1062,419,0 1051,441,1067,486,0 1043,517,1080,556,0 1058,618,1081,674,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0454.jpg 539,208,560,237,0 528,260,547,289,0 521,309,536,350,0 494,370,530,413,0 478,463,504,515,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0541.jpg 971,185,996,236,0 982,292,1004,343,0 988,390,1008,454,0 980,510,1021,562,0 999,664,1019,744,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_013.jpg 570,443,596,460,0 533,455,556,474,0 489,476,520,489,0 445,485,471,510,0 363,521,407,540,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0801.jpg 1306,632,1332,645,0 1261,645,1286,658,0 1214,654,1245,665,0 1170,664,1193,675,0 1095,677,1128,689,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0457.jpg 786,195,807,226,0 783,246,805,278,0 784,296,801,335,0 770,358,806,397,0 770,448,795,497,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1237.jpg 864,295,895,325,0 921,343,951,371,0 968,384,1007,417,0 1030,431,1063,465,0 1106,501,1149,541,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1232.jpg 585,297,616,332,0 621,358,647,391,0 655,413,684,453,0 684,478,719,515,0 740,567,774,617,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_020.jpg 856,444,878,460,0 825,456,848,473,0 795,476,818,490,0 760,484,785,508,0 698,519,734,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0657.jpg 900,898,930,913,0 960,882,987,898,0 1012,870,1049,885,0 1076,855,1106,871,0 1157,837,1198,853,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1230.jpg 564,384,590,417,0 599,444,624,478,0 634,501,660,542,0 661,568,698,604,0 719,658,752,709,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1258.jpg 642,350,675,366,0 708,351,743,366,0 769,352,811,366,0 841,341,877,369,0 935,354,979,370,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0509.jpg 846,91,868,132,0 849,165,867,210,0 852,244,870,296,0 841,336,880,384,0 855,462,872,528,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0553.jpg 981,416,997,446,0 987,479,1003,510,0 991,538,1004,576,0 987,607,1014,639,0 998,700,1012,749,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1265.jpg 600,420,634,438,0 668,423,700,434,0 728,421,770,433,0 802,410,837,434,0 894,418,936,434,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0504.jpg 988,301,1011,329,0 996,346,1012,381,0 1000,399,1016,439,0 995,459,1028,498,0 1010,549,1028,601,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_022.jpg 961,446,983,462,0 935,459,957,474,0 911,478,931,491,0 876,485,903,510,0 825,520,858,539,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0521.jpg 953,269,979,323,0 962,373,986,423,0 967,462,989,531,0 959,583,999,636,0 977,736,1000,813,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_121.jpg 1252,488,1269,501,0 1277,503,1292,514,0 1301,515,1323,529,0 1331,524,1350,544,0 1372,553,1396,569,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1252.jpg 1091,329,1127,345,0 1159,331,1190,346,0 1220,330,1261,344,0 1290,321,1326,346,0 1385,330,1433,348,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0538.jpg 968,180,995,233,0 977,288,1002,337,0 984,386,1003,450,0 976,506,1016,559,0 993,659,1017,740,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1227.jpg 552,498,579,535,0 588,564,616,599,0 623,622,651,664,0 656,695,688,730,0 713,789,746,841,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1250.jpg 1175,325,1209,342,0 1242,328,1274,341,0 1300,327,1340,340,0 1373,319,1407,342,0 1466,327,1511,343,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_135.jpg 1370,747,1398,769,0 1412,778,1439,801,0 1452,808,1487,837,0 1504,841,1538,876,0 1577,904,1623,943,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1251.jpg 1165,329,1201,346,0 1232,330,1264,344,0 1291,330,1333,342,0 1365,320,1398,345,0 1458,330,1503,347,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0543.jpg 975,186,1000,236,0 982,292,1008,345,0 990,390,1012,458,0 981,511,1025,562,0 1000,665,1024,742,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0800.jpg 1275,629,1302,642,0 1230,641,1254,653,0 1183,650,1212,661,0 1139,658,1162,670,0 1065,673,1100,684,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1221.jpg 566,510,596,545,0 605,574,631,610,0 639,632,670,676,0 671,703,709,742,0 732,799,765,853,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1289.jpg 515,532,557,550,0 595,533,633,547,0 665,530,716,542,0 754,516,790,541,0 862,524,913,541,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0544.jpg 973,185,1000,236,0 983,292,1008,343,0 988,387,1012,454,0 982,511,1025,560,0 1000,662,1022,741,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1233.jpg 625,294,653,327,0 661,354,685,385,0 695,408,724,447,0 727,473,760,510,0 783,561,814,610,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_128.jpg 1274,533,1295,548,0 1303,551,1321,564,0 1330,566,1352,582,0 1363,580,1385,601,0 1409,612,1438,633,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1266.jpg 604,417,638,433,0 671,420,706,432,0 733,418,775,431,0 804,405,839,430,0 898,415,941,432,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_017.jpg 701,440,726,458,0 668,453,689,470,0 629,474,656,486,0 589,482,613,506,0 517,514,556,536,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0463.jpg 996,242,1017,274,0 1002,291,1019,327,0 1006,348,1020,389,0 998,413,1031,450,0 1009,504,1029,556,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0532.jpg 951,179,977,230,0 960,285,985,335,0 965,381,987,447,0 958,499,1000,554,0 975,653,998,733,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0794.jpg 881,472,910,485,0 950,459,971,474,0 992,456,1019,465,0 1035,447,1056,457,0 1076,439,1100,449,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0547.jpg 969,190,997,241,0 978,296,1004,347,0 984,393,1006,459,0 978,512,1019,563,0 996,664,1019,743,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1212.jpg 610,160,638,191,0 646,214,669,245,0 678,265,705,299,0 710,323,742,359,0 764,406,797,451,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_051.jpg 468,343,485,354,0 493,351,508,361,0 517,358,537,368,0 545,360,565,376,0 584,377,608,388,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_014.jpg 595,441,621,458,0 558,453,581,471,0 515,475,545,488,0 472,482,498,508,0 391,518,434,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_006.jpg 606,446,634,463,0 564,458,591,477,0 518,478,550,493,0 469,484,497,511,0 381,519,427,538,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_023.jpg 983,445,1003,460,0 959,459,979,473,0 936,476,954,490,0 905,483,930,510,0 857,521,889,538,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1270.jpg 592,366,628,383,0 663,366,699,379,0 727,364,769,377,0 804,353,839,377,0 901,360,946,377,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0264.jpg 1093,701,1112,741,0 1089,621,1105,657,0 1085,538,1100,588,0 1075,466,1106,499,0 1077,340,1092,395,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1290.jpg 507,511,547,528,0 587,510,629,526,0 660,509,711,522,0 750,494,787,520,0 859,501,911,519,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0529.jpg 958,185,984,239,0 967,293,990,343,0 972,389,993,456,0 966,510,1008,560,0 983,661,1005,743,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_120.jpg 1249,490,1267,502,0 1276,504,1291,516,0 1300,517,1321,530,0 1329,528,1349,545,0 1370,554,1395,571,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1288.jpg 523,544,561,565,0 600,546,639,560,0 672,544,720,558,0 757,530,797,556,0 864,536,916,556,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0545.jpg 972,184,996,236,0 982,292,1006,342,0 987,386,1009,453,0 980,510,1020,560,0 999,662,1022,739,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_009.jpg 489,448,517,467,0 447,463,473,482,0 401,484,432,500,0 352,493,381,519,0 263,531,309,551,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1229.jpg 553,481,580,517,0 590,545,614,578,0 623,602,651,643,0 656,672,688,708,0 712,764,744,814,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_134.jpg 1350,701,1375,723,0 1388,730,1416,751,0 1427,758,1459,782,0 1473,785,1505,816,0 1540,838,1582,875,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0550.jpg 970,325,991,365,0 977,406,994,443,0 983,479,999,527,0 979,567,1006,608,0 993,682,1007,741,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_136.jpg 1393,799,1423,823,0 1437,834,1468,857,0 1481,868,1521,902,0 1541,907,1574,945,0 1622,978,1669,1021,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0268.jpg 1109,1012,1124,1058,0 1101,932,1135,972,0 1104,806,1121,863,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_041.jpg 566,375,580,386,0 581,386,592,396,0 597,398,612,408,0 611,404,632,422,0 640,428,658,442,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1218.jpg 605,161,632,193,0 641,218,666,253,0 677,277,706,315,0 712,340,743,377,0 769,426,802,479,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1259.jpg 646,378,679,394,0 713,380,746,393,0 772,379,816,393,0 846,371,880,396,0 935,381,981,396,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_019.jpg 800,443,823,459,0 769,452,790,472,0 734,475,758,489,0 696,482,722,508,0 630,518,671,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0275.jpg 1120,1011,1135,1058,0 1111,932,1145,972,0 1114,808,1131,863,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0540.jpg 970,183,995,236,0 978,289,1002,340,0 985,385,1007,453,0 977,506,1018,559,0 998,662,1016,742,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0537.jpg 970,181,997,232,0 979,287,1003,337,0 985,384,1005,450,0 977,505,1021,559,0 995,657,1019,737,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0551.jpg 977,357,995,393,0 984,431,1001,466,0 986,498,1003,541,0 984,582,1009,617,0 995,685,1011,738,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_125.jpg 1257,495,1275,508,0 1283,511,1299,523,0 1308,524,1331,539,0 1339,535,1359,555,0 1381,565,1407,583,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0507.jpg 918,6,937,46,0 925,74,939,126,0 912,160,952,206,0 927,276,949,339,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1256.jpg 659,243,696,259,0 727,245,759,258,0 787,246,833,258,0 864,235,896,260,0 958,246,1001,263,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1283.jpg 542,437,579,458,0 616,438,653,454,0 683,439,727,450,0 763,424,801,449,0 866,431,915,447,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1277.jpg 567,202,604,219,0 639,201,675,216,0 706,200,752,214,0 785,186,825,212,0 887,192,936,214,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0453.jpg 586,199,607,230,0 576,252,594,279,0 569,302,585,340,0 545,362,582,401,0 534,453,557,505,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1268.jpg 605,396,639,417,0 674,400,708,413,0 734,399,776,411,0 810,389,844,411,0 905,396,948,411,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0805.jpg 1313,608,1337,622,0 1265,620,1287,632,0 1217,629,1248,642,0 1172,639,1196,653,0 1097,655,1130,666,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_001.jpg 602,455,630,473,0 560,466,586,485,0 511,487,544,501,0 460,492,491,519,0 372,528,420,548,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_129.jpg 1283,552,1304,567,0 1312,570,1329,584,0 1340,587,1364,605,0 1374,602,1398,626,0 1422,636,1452,660,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1286.jpg 529,577,567,594,0 606,579,642,591,0 674,574,720,587,0 759,562,795,588,0 863,570,912,587,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_011.jpg 531,447,558,464,0 493,459,517,479,0 448,482,476,495,0 401,489,428,515,0 315,526,360,546,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0263.jpg 1093,729,1111,769,0 1088,651,1103,685,0 1084,572,1097,620,0 1072,503,1102,536,0 1073,390,1086,438,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_138.jpg 1451,928,1486,962,0 1507,975,1542,1009,0 1561,1023,1605,1064,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0456.jpg 573,194,594,224,0 563,247,583,274,0 556,296,574,335,0 533,355,568,396,0 519,448,548,497,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1249.jpg 1173,320,1210,339,0 1239,322,1271,336,0 1299,322,1340,335,0 1370,309,1403,337,0 1462,320,1508,340,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_048.jpg 433,353,449,366,0 457,364,471,373,0 480,371,501,381,0 506,373,527,390,0 545,391,567,403,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_004.jpg 609,452,637,469,0 568,462,593,482,0 520,485,551,498,0 467,491,498,517,0 380,527,426,545,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1273.jpg 590,346,627,362,0 663,347,697,360,0 727,346,770,357,0 804,333,840,357,0 902,341,948,357,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_054.jpg 517,346,534,357,0 542,354,555,363,0 565,361,586,371,0 594,362,612,380,0 633,381,655,392,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1271.jpg 596,358,630,377,0 663,359,698,372,0 729,358,772,371,0 806,348,841,373,0 902,354,951,372,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1282.jpg 548,461,585,477,0 622,460,657,474,0 688,458,732,471,0 768,445,802,470,0 868,453,914,469,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_139.jpg 1488,1014,1525,1047,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0652.jpg 1002,452,1026,464,0 1050,442,1072,454,0 1091,436,1118,443,0 1141,420,1164,436,0 1204,412,1236,424,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_040.jpg 591,377,606,390,0 604,391,615,400,0 619,402,634,413,0 631,408,650,426,0 657,432,675,447,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0530.jpg 953,185,979,236,0 961,292,985,342,0 965,385,987,454,0 959,507,1000,561,0 975,662,998,741,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0534.jpg 962,177,988,231,0 972,285,996,337,0 977,383,999,447,0 968,501,1012,555,0 987,655,1009,733,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_035.jpg 657,438,681,462,0 671,469,687,488,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1280.jpg 553,466,592,484,0 628,466,665,479,0 693,466,739,477,0 773,450,809,476,0 873,457,922,475,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1235.jpg 1137,312,1158,346,0 1135,382,1151,416,0 1132,448,1145,487,0 1119,523,1147,560,0 1115,624,1132,676,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_053.jpg 506,340,522,350,0 531,347,545,357,0 555,356,576,364,0 583,356,600,372,0 622,372,645,385,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_015.jpg 624,440,650,457,0 587,453,611,471,0 547,474,574,487,0 504,481,531,507,0 426,517,468,536,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0797.jpg 964,385,996,399,0 1037,372,1060,385,0 1081,361,1108,375,0 1129,351,1153,364,0 1176,340,1201,355,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0552.jpg 979,386,999,421,0 986,456,1003,489,0 990,519,1004,559,0 986,594,1011,630,0 997,694,1012,742,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1220.jpg 578,457,609,493,0 617,521,644,555,0 653,578,682,619,0 687,649,720,685,0 744,743,778,796,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0452.jpg 646,138,666,167,0 641,191,657,217,0 634,236,649,271,0 613,292,649,330,0 606,377,629,426,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0459.jpg 1168,228,1190,261,0 1177,283,1196,316,0 1186,335,1204,376,0 1187,401,1223,439,0 1206,494,1229,545,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0549.jpg 967,288,988,333,0 975,375,994,417,0 979,454,998,508,0 974,554,1007,599,0 989,678,1010,744,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0523.jpg 955,323,980,374,0 964,424,987,476,0 968,517,990,583,0 961,637,1002,690,0 980,792,1003,872,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0535.jpg 967,180,992,231,0 976,286,999,338,0 982,383,1004,449,0 973,503,1014,556,0 992,656,1014,736,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1216.jpg 601,95,631,128,0 639,153,664,184,0 673,206,702,243,0 709,269,742,305,0 766,354,798,403,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_132.jpg 1316,630,1341,647,0 1351,652,1373,671,0 1384,674,1414,695,0 1425,695,1451,722,0 1481,740,1516,768,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0806.jpg 1310,578,1334,591,0 1265,593,1288,608,0 1216,606,1247,622,0 1173,619,1196,634,0 1101,642,1132,655,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1267.jpg 608,409,641,423,0 675,409,710,423,0 735,408,779,421,0 810,398,844,420,0 904,405,947,421,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_003.jpg 605,453,632,471,0 563,465,589,484,0 515,485,547,499,0 465,492,493,519,0 378,527,422,547,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0265.jpg 1093,646,1111,686,0 1090,565,1106,603,0 1088,481,1103,531,0 1079,404,1110,443,0 1085,275,1098,331,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_122.jpg 1251,486,1270,499,0 1277,501,1294,512,0 1301,513,1324,528,0 1330,524,1351,542,0 1372,552,1398,569,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_007.jpg 549,448,575,465,0 504,461,533,479,0 460,481,490,495,0 410,488,438,515,0 322,525,367,544,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0804.jpg 1322,611,1347,627,0 1276,624,1298,638,0 1226,634,1257,645,0 1182,643,1206,658,0 1107,658,1141,671,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0274.jpg 1128,1017,1144,1066,0 1121,940,1151,979,0 1123,815,1140,871,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_024.jpg 994,443,1015,458,0 973,456,991,471,0 952,475,970,489,0 923,484,949,508,0 879,519,910,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0464.jpg 970,93,988,118,0 974,137,987,164,0 977,180,991,216,0 971,232,1001,268,0 979,310,996,355,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1219.jpg 591,301,620,336,0 628,362,655,397,0 666,422,696,461,0 701,487,733,526,0 758,578,791,629,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1231.jpg 574,315,600,348,0 608,375,634,408,0 642,431,670,469,0 670,496,706,532,0 728,585,760,634,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0803.jpg 1329,621,1356,634,0 1284,634,1307,645,0 1235,642,1264,653,0 1189,652,1213,664,0 1117,666,1150,678,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_050.jpg 438,347,456,358,0 465,355,478,365,0 488,363,509,373,0 516,365,533,381,0 556,382,579,394,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_008.jpg 493,451,519,468,0 450,463,476,483,0 403,486,435,500,0 353,493,382,520,0 263,531,310,551,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0458.jpg 1042,210,1064,238,0 1047,262,1064,292,0 1055,309,1071,351,0 1051,372,1083,411,0 1062,464,1083,513,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_010.jpg 511,448,538,466,0 471,461,496,480,0 423,482,455,498,0 375,490,405,518,0 290,528,333,549,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_133.jpg 1332,663,1358,682,0 1369,687,1392,707,0 1403,713,1434,736,0 1448,737,1475,766,0 1509,785,1548,817,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_016.jpg 661,440,685,456,0 626,451,647,469,0 585,473,612,487,0 543,481,569,506,0 467,516,510,535,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0533.jpg 956,176,981,229,0 965,284,992,333,0 971,379,993,448,0 963,500,1001,554,0 981,652,1002,733,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0503.jpg 1004,346,1025,374,0 1011,389,1027,423,0 1016,438,1031,474,0 1012,495,1041,531,0 1028,580,1045,628,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1240.jpg 921,64,958,83,0 991,68,1026,84,0 1055,68,1101,86,0 1132,61,1168,88,0 1232,73,1281,96,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_018.jpg 748,441,772,458,0 715,454,738,472,0 678,473,704,488,0 638,481,666,506,0 571,517,610,537,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1214.jpg 583,122,610,155,0 620,179,645,209,0 653,232,682,269,0 688,294,721,333,0 745,380,778,428,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1217.jpg 607,97,635,131,0 643,156,669,189,0 677,206,707,246,0 714,270,745,308,0 770,358,804,408,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_039.jpg 621,380,636,393,0 633,393,645,403,0 647,405,662,419,0 657,410,676,431,0 680,437,697,454,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1223.jpg 556,488,584,523,0 593,551,618,586,0 628,610,656,652,0 660,681,695,716,0 719,774,751,827,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0795.jpg 906,348,937,359,0 975,335,998,348,0 1021,329,1047,338,0 1064,319,1086,329,0 1108,309,1131,321,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0514.jpg 597,583,623,633,0 596,684,616,733,0 592,778,611,842,0 568,900,613,956,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_029.jpg 831,428,844,443,0 821,442,834,457,0 814,463,825,476,0 797,473,820,496,0 781,507,800,529,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0460.jpg 1201,268,1225,298,0 1214,324,1230,356,0 1224,378,1241,418,0 1227,446,1260,485,0 1249,542,1271,596,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_033.jpg 898,446,919,469,0 903,479,916,496,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_137.jpg 1420,861,1452,886,0 1470,899,1501,928,0 1518,940,1560,974,0 1583,986,1621,1027,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0516.jpg 524,569,549,616,0 518,666,539,714,0 513,760,531,827,0 485,879,532,936,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_012.jpg 551,446,577,461,0 513,459,536,476,0 467,479,497,493,0 422,487,449,513,0 338,524,383,543,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_032.jpg 925,452,948,475,0 926,485,939,503,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_052.jpg 490,339,507,351,0 515,347,529,357,0 539,355,559,365,0 568,357,587,373,0 607,373,630,385,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0461.jpg 1106,306,1128,337,0 1115,363,1132,396,0 1120,419,1139,464,0 1119,490,1154,529,0 1136,591,1158,646,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1269.jpg 598,383,631,399,0 668,385,701,397,0 730,383,772,396,0 807,372,839,396,0 902,380,945,397,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1253.jpg 955,325,990,337,0 1023,323,1056,336,0 1083,323,1124,337,0 1155,313,1188,338,0 1249,323,1296,338,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0003_127.jpg 1266,517,1286,531,0 1294,533,1312,547,0 1321,548,1344,565,0 1353,561,1375,583,0 1398,592,1426,613,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1224.jpg 554,488,580,523,0 590,552,616,586,0 626,610,654,652,0 658,681,692,719,0 716,776,749,828,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_1257.jpg 647,332,680,349,0 713,336,746,349,0 773,338,814,349,0 847,329,880,351,0 940,338,984,354,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0266.jpg 1097,866,1117,910,0 1092,787,1110,828,0 1091,704,1107,756,0 1081,629,1113,665,0 1086,503,1101,557,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0527.jpg 973,193,1000,246,0 982,299,1006,350,0 988,395,1009,462,0 979,516,1021,568,0 997,667,1021,748,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0451.jpg 712,260,733,286,0 710,302,725,327,0 706,345,718,378,0 686,391,719,425,0 681,468,703,512,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0267.jpg 1099,993,1115,1032,0 1097,912,1112,961,0 1088,834,1118,871,0 1092,707,1106,763,0
+/home/Pedestrian/Documents/TensorFlow_YOLOv3_for_site/LabelImage_v1.8.1/data/train_jpgs/DJI_0009_0511.jpg 764,261,787,304,0 767,344,784,389,0 767,428,785,487,0 751,528,793,580,0 760,666,780,738,0
